@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nakkul Narwal</h1>
 <h3 align="center">A student, web and python developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fomarjarvis.medium.com%2Fwhy-do-i-want-to-become-a-software-engineer-ed189a187a32&psig=AOvVaw1jRqjfCpXdjg0iOPzdiWJY&ust=1672501455687000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDessvXofwCFQAAAAAdAAAAABAS" alt="infinitynakkulnarwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="infinitynakkulnarwal" /></a> </p>
 
 - 🔭 I’m currently working on **python and java projects**
 
