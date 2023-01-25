@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **android app development**
 
-- 📫 How to reach me **nakkul@gmail.com**
+- 📫 How to reach me **nakkulnarwal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
